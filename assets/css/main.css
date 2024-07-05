@@ -2587,7 +2587,11 @@ input, select, textarea {
 		}
 
 /* Image */
-
+.intro-image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
 	.image {
 		border: 0;
 		display: inline-block;
